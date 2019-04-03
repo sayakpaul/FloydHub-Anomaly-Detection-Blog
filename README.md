@@ -1,4 +1,4 @@
-# FloydHub-Blog-Anomaly-Detection
+# FloydHub-Blog-Anomaly-Detection-Blog
 
 [![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 
